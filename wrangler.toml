@@ -1,9 +1,0 @@
-name = "presigned-url-generator"
-main = "worker.js"
-compatibility_date = "2023-10-30"
-
-[vars]
-# Secrets akan kita atur di dashboard nanti
-
-[[nodejs_compat_v2]]
-# Mengaktifkan kompatibilitas Node.js
