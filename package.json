@@ -1,0 +1,15 @@
+{
+  "name": "madrasah-pintar-worker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.501.0",
+    "@aws-sdk/s3-request-presigner": "^3.501.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.22.0"
+  }
+}

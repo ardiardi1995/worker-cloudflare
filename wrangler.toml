@@ -1,0 +1,6 @@
+name = "madrasah-pintar-worker"
+main = "worker.js"
+compatibility_date = "2023-10-30"
+
+# Ini adalah cara yang benar untuk mengaktifkan kompatibilitas Node.js
+compatibility_flags = [ "nodejs_compat" ] 
